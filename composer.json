@@ -2,7 +2,8 @@
   "name": "koraycicekciogullari/hydro-contact",
   "description": "A hydro contact",
   "license": "MIT",
-  "keywords": [
+  "version": "1.0.0",
+   "keywords": [
     "hydro",
     "contact"
   ],
